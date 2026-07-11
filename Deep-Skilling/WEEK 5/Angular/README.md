@@ -1,3 +1,3 @@
-# Angular
+# React
 
-This folder contains notes, examples, and hands-on exercises related to Angular development.
+This folder contains notes, examples, and hands-on exercises related to React development.
