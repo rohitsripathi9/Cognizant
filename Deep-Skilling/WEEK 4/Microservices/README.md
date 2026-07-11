@@ -1,3 +1,3 @@
-# Microservices
+# Microservices Architecture using ASP.NET Core Web API
 
-This folder contains notes and hands-on exercises related to microservice architecture and distributed systems.
+Microservices exercises covering JWT authentication, inter-service communication, and service architecture.

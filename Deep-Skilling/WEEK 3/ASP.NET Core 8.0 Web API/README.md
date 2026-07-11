@@ -1,3 +1,3 @@
-# ASP.NET Core 8.0 Web API
+# ASP.NET Core 8.0 Web API - Advanced
 
-This folder contains notes, projects, and hands-on exercises related to building Web APIs using ASP.NET Core.
+Advanced Web API exercises covering JWT authentication, middleware, filters, and Swagger.
